@@ -9,4 +9,4 @@ class Entity:
 
     def move(self, ):
         pass
-
+        
